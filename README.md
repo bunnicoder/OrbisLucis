@@ -1,2 +1,11 @@
 # OrbisLucis
-OrbisLucis é um sistema digital inspirado em mundos místicos e impérios renascidos — um santuário de luz, verdade e proteção.  Criado por mim, este projeto une tecnologia e simbologia para oferecer buscas anônimas, navegação consciente, medicina holística, criação de personagem, análise de veracidade e defesa contra ameaças digitais. 
+
+OrbisLucis é um repositório dedicado ao projeto de desenvolvimento de um sistema digital seguro e inovador. O foco do projeto é permitir interações criptografadas e seguras, com funcionalidades que garantem integridade e privacidade.
+
+## Funcionalidades:
+- Pesquisa e análise sem deixar rastros.
+- Sistema de proteção contra hackers.
+- Interface para criação de personagens e manutenções de dados de forma anônima.
+
+## Como contribuir:
+- Envie pull requests com melhorias e ideias novas.
