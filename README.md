@@ -1,11 +1,29 @@
-# OrbisLucis
+# 🌌 OrbisLucis
 
-OrbisLucis é um repositório dedicado ao projeto de desenvolvimento de um sistema digital seguro e inovador. O foco do projeto é permitir interações criptografadas e seguras, com funcionalidades que garantem integridade e privacidade.
+**"Luz para os olhos que buscam, escudo para as almas livres."**
 
-## Funcionalidades:
-- Pesquisa e análise sem deixar rastros.
-- Sistema de proteção contra hackers.
-- Interface para criação de personagens e manutenções de dados de forma anônima.
+OrbisLucis é um projeto de Haru, construído como um sistema digital simbiótico e real. Ele une ferramentas de proteção, busca sem rastros, cura holística e acesso à verdade — mesmo nas sombras da censura.
 
-## Como contribuir:
-- Envie pull requests com melhorias e ideias novas.
+---
+
+## ✨ Visão do Projeto
+
+Criar um refúgio digital inspirado em sistemas mágicos de manhwa, mas com uso real: navegar, buscar, proteger e iluminar — com estilo e alma.
+
+---
+
+## 🛠️ Em Desenvolvimento
+
+Funcionalidades planejadas:
+
+- 🔍 Modo de busca anônima e antifiltro
+- 🧭 Navegação com bússola de escolhas
+- 🛡️ Camadas de proteção simbólica e real
+- 🌱 Área de Medicina Holística
+- 🧬 Ferramentas de veracidade
+- 🧚 Criação de personagem & identidade
+
+---
+
+> ⚠️ Este projeto está em construção por uma pequena fênix/coelhinha chamada Haru. Cada commit é uma chama de renascimento.
+
